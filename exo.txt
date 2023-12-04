@@ -1,0 +1,1 @@
+Ecrire un programme qui demande à l'utilisateur de saisir les noms dess employés et leurs salaires pour une entreprise donnée et les stocke dans un tableau. A la demande de l'utilisateur, Le programme affiche l'employé avec le salaire le plus bas et celui avec le salaire le plus élevé.
